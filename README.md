@@ -151,6 +151,14 @@ TOTAL PASS = 9, TOTAL FAIL = 0
 **Corrupted stop bit → framing error:**
 ![Framing error waveform](DOCS/waveform_framing_error.png)
 
+
+### Simulation Transcript
+
+The ModelSim transcript confirms that all directed verification tests passed with zero failures.
+
+![Simulation transcript](DOCS/transcript_results.png)
+
+
 ---
 
 ## How to Run
